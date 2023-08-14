@@ -4,7 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e42d9e8-a798-44c9-9522-aa6e82e4fd62" name="Changes" comment="" />
+    <list default="true" id="1e42d9e8-a798-44c9-9522-aa6e82e4fd62" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bankline--app" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-angular/Projeto Web/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-angular/myApp/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-angular/myApp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-angular/myApp/.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-angular/myApp/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-angular/myApp/.vscode/tasks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-angular/myApp/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-angular/myApp/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-angular/myApp/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-angular/myApp/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-angular/myApp/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-angular/myApp/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-angular/myApp/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-angular/myApp/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-angular/myApp/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-angular/myApp/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-angular/myApp/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-angular/myApp/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-angular/myApp/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-angular/myApp/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-angular/myApp/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-angular/myApp/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-angular/myApp/tsconfig.spec.json" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,36 +44,41 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2TyLB92xrAB34KUgRa8umhIDZeu" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/OOJ.DESKTOP-9TBGR0B/Documents/Projetos/bankline--app",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/OOJ.DESKTOP-9TBGR0B/Documents/Projetos/bankline-app&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\OOJ.DESKTOP-9TBGR0B\Documents\Projetos\bankline-app" />
+    </key>
+  </component>
   <component name="RunManager" selected="npm.Angular CLI Server">
     <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
       <method v="2" />
     </configuration>
     <configuration name="Angular CLI Server" type="js.build_tools.npm">
-      <package-json value="$PROJECT_DIR$/bankline-app/package.json" />
+      <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
       <scripts>
         <script value="start" />
@@ -64,6 +97,7 @@
       <option name="presentableId" value="Default" />
       <updated>1692010235381</updated>
       <workItem from="1692010236399" duration="977000" />
+      <workItem from="1692011877753" duration="4263000" />
     </task>
     <servers />
   </component>
